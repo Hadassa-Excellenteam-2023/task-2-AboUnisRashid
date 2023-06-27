@@ -1,0 +1,7 @@
+/Users/rashidab/Desktop/tasko2/cmake-build-debug/CMakeFiles/Chess.dir
+/Users/rashidab/Desktop/tasko2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rashidab/Desktop/tasko2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rashidab/Desktop/tasko2/cmake-build-debug/include/CMakeFiles/edit_cache.dir
+/Users/rashidab/Desktop/tasko2/cmake-build-debug/include/CMakeFiles/rebuild_cache.dir
+/Users/rashidab/Desktop/tasko2/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/rashidab/Desktop/tasko2/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
